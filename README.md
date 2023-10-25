@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I work as a technical writer for [Velocity](https://www.velocity.tech), and I'm passionate about developer advocacy 🥑.
+- I work as a technical writer for [Velocity](https://www.velocity.tech), and I'm passionate about developer advocacy 🥑
 - You can chat with me on [LinkedIn](https://www.linkedin.com/in/jeff-v-28b588152/).
 
 - I'm currently building [PyProdigy](https://github.com/jeff-vincent/PyProdigy), a free, open-source, Kubernetes-native Python learning platform.
